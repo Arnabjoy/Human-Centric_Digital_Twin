@@ -18,20 +18,20 @@ Sensor Codes folder contains all the necessary scripts required to connect to th
 ### Additional Files
 Additional Files folder contains heart-rate generator mock file(db-collector-mock.py) for testing purposes. db-collector-mock.py generates random heart rate values which can be helpful in testing out different production scenarios without the need for wearing the sensor.
 
-### Authors and acknowledgment
-Group Members:
-(1) Tuomas Laine 
-(2) Arnab Chakraborty
-(3) Hajiba Legrara 
+## Authors and Acknowledgment
 
-Official Instructor: 
-Mikhail Kolesnikov
+**Group Members:**
+- Tuomas Laine
+- Arnab Chakraborty
+- Hajiba Legrara
 
-Other advisors: 
+**Official Instructor:**
+- Mikhail Kolesnikov
 
-(1) Tuojian Lyu 
-(2) Udayanto Dwi Atmojo 
+**Other Advisors:**
+- Tuojian Lyu
+- Udayanto Dwi Atmojo
 
-### License
+## License
 © Copyright 2023 [Aalto University]
 
