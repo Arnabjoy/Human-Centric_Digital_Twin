@@ -1,10 +1,14 @@
 # Human Centric Production Operator Digital Twin
 
 
-
 ## Project Work - CRAS13
 
+### Objective
+The objective was to create a digital twin of a human operator working in a functioning production unit in unison with a robot and a production line. This would allow us to monitor the state of the human and the production unit in real time, which would allow us to affect the production in order to improve the operators condition.
 
+### Results
+
+The result of the project is that we have a production line which adapts its execution according to the humans measured heart rate. The human’s condition also affects how much the MiR 100 robot is used in the transportation of the workpieces, for example: if the human is stressed, then the robot is utilized more. This whole process is then visualized in a Visual Components 3D-model in real time, which we can also use to trigger certain actions to try and get the operator to be in an optimal state, for example by triggering sound cues.
 
 
 ## Folders
