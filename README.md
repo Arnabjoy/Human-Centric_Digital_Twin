@@ -33,8 +33,9 @@ Additional Files folder contains heart-rate generator mock file(db-collector-moc
 - Mikhail Kolesnikov
 
 **Other Advisors:**
-- Tuojian Lyu
-- Udayanto Dwi Atmojo
+- Udayanto Atmojo 
+- Pranay Jhunjhunwala       
+
 
 ## License
 © Copyright 2023 [Aalto University]
