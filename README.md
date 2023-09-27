@@ -1,7 +1,7 @@
 # Human Centric Production Operator Digital Twin
 
 
-## Project Work - CRAS13
+## Project Work
 
 ### Objective
 The objective was to create a digital twin of a human operator working in a functioning production unit in unison with a robot and a production line. This would allow us to monitor the state of the human and the production unit in real time, which would allow us to affect the production in order to improve the operators condition.
@@ -20,27 +20,8 @@ GUI and Process Control Script folder contains Main_Control.py and main_interfac
 Sensor Codes folder contains all the necessary scripts required to connect to the sensor and retrieve the heart-rate values in real-time.  ESP32_BLE_HRM_MQTT.ino code should be uploaded in the esp32 using the Arduino IDE and db-collector.py is used for retrieving the heart-rate values and post in the MongoDB(sensor database). Then, decision-making.py is used for getting those sensor values from the sensor database and make a decision on human worker condition.
 
 
-### VisualComponents
-This folder contains the Visual Components digital twin file named as CRAS_13.vcmx and also has OPCUA_server script which is deployed in Raspberry Pi and helps the digital twin in receiving datas from MQTT.
-
-
 ### Additional Files
 Additional Files folder contains heart-rate generator mock file(db-collector-mock.py) for testing purposes. db-collector-mock.py generates random heart rate values which can be helpful in testing out different production scenarios without the need for wearing the sensor.
-
-## Authors and Acknowledgment
-
-**Group Members:**
-- Tuomas Laine
-- Arnab Chakraborty
-- Hajiba Legrara
-
-**Official Instructor:**
-- Mikhail Kolesnikov
-
-**Other Advisors:**
-- Udayanto Atmojo 
-- Pranay Jhunjhunwala       
-
 
 ## License
 © Copyright 2023 [Aalto University]
